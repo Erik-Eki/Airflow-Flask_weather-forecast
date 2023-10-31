@@ -1,5 +1,7 @@
 # Airflow + Flask Weather-forecast
 
+![](https://adobecracker.com/wp-content/uploads/2020/03/AirflowLogo.png)
+
 This small app has a Flask server and Airflow running in Docker containers in the same network. Done for learning purposes.
 
 1. Flask server does a GET request to https://www.weatherapi.com to get current weather in Kajaani.
